@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects
 
-#### ⌚ [Eternal Watches – E-commerce Platform](https://github.com/amansharma865)
+#### ⌚ [Eternal Watches – E-commerce Platform](https://eternalwatches.netlify.app/)
 Modern e-commerce website for luxury watches with **React.js frontend**, **Node.js + MongoDB backend**, and **JWT authentication**.  
 Includes product filtering, cart system, and secure checkout.
 
