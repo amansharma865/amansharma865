@@ -105,14 +105,6 @@ End-to-end MERN platform with **Stripe API**, **WebSocket chat**, and **role-bas
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansharma865&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma865&layout=compact&theme=radical" height="180em" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:amansharma865865@gmail.com"><img src="https://img.shields.io/badge/Email-amansharma865865%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
